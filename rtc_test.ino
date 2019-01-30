@@ -1,3 +1,19 @@
+/*
+  Lazy alarm 
+
+  This example shows how to create a lazy alarm 
+  
+
+  
+
+  created June 2018
+  by M.Himamsu
+  modified June 2018
+  by M.Himamsu 
+
+
+*/
+
 #include <Wire.h> //include Wire.h library
 #include "RTClib.h" //include Adafruit RTC library
 
